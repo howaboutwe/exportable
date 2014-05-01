@@ -1,3 +1,7 @@
 = Exportable
 
-This project rocks and uses MIT-LICENSE.
+included class should have methods:
+
+    self.exportable_headers()
+    instance.exportable_row()
+    self.exportable or a named_scope of :exportable (optional) or be able to iterate over itself
