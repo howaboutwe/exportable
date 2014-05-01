@@ -1,0 +1,1009 @@
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (50.8ms)[0m  [1mCREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB[0m
+  [1m[35m (16.2ms)[0m  CREATE UNIQUE INDEX `unique_schema_migrations` ON `schema_migrations` (`version`)
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (8.7ms)[0m  CREATE TABLE `daily_dates_data` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `email` varchar(128) NOT NULL, `userID` int(11) NOT NULL, `site` varchar(50) NOT NULL, `site_url` varchar(255) NOT NULL, `site_name` varchar(255) NOT NULL, `single_access_token` varchar(255), `recipient_city` varchar(255), `recipient_login` varchar(255) NOT NULL, `image_url` varchar(512) NOT NULL, `date_text` varchar(250) NOT NULL, `login` varchar(50) NOT NULL, `age` int(11) NOT NULL, `gender` varchar(50) NOT NULL, `orientation` varchar(255) NOT NULL, `city` varchar(50), `state` varchar(50), `imp_url` varchar(2048)) ENGINE=InnoDB
+  [1m[36m (0.6ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20140429173256')[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.7ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mDailyDatesData Load (6.5ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` [0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (25.8ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.4ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 2
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.7ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (5.9ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (6.4ms)[0m  ROLLBACK
+  [1m[36m (2.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mDailyDatesData Load (0.2ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 9[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (5.4ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (5.9ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.3ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (25.5ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mDailyDatesData Load (0.2ms)[0m  SELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  UPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 12
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (11.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (6.0ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mDailyDatesData Load (0.2ms)[0m  SELECT `daily_dates_data`.* FROM `daily_dates_data` 
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 15
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 16[0m
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (4.9ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mDailyDatesData Load (0.3ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` [0m
+  [1m[35mDailyDatesData Load (0.4ms)[0m  SELECT `daily_dates_data`.* FROM `daily_dates_data` 
+  [1m[36m (7.1ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mDailyDatesData Load (0.4ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` [0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.3ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 23[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 24
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (6.3ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mDailyDatesData Load (0.2ms)[0m  SELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  UPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 26
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (11.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (5.9ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (5.9ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mDailyDatesData Load (0.7ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 29[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (5.9ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (5.9ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (6.7ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mDailyDatesData Load (0.2ms)[0m  SELECT `daily_dates_data`.* FROM `daily_dates_data` 
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 33
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 34[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.9ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.8ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (5.4ms)[0m  SELECT DATABASE() as db
+  [1m[36m (6.6ms)[0m  [1mselect table_name from information_schema.views where table_schema = 'exportable_test'[0m
+  [1m[35m (14.8ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.3ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (25.5ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.4ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36mDailyDatesData Load (0.3ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.3ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.6ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (27.1ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (2.3ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (29.1ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (29.8ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (25.4ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36mDailyDatesData Load (0.2ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` [0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 2
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.2ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.1ms)[0m  SELECT DATABASE() as db
+  [1m[36m (0.9ms)[0m  [1mselect table_name from information_schema.views where table_schema = 'exportable_test'[0m
+  [1m[35m (10.2ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.4ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.3ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (3.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.2ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (4.0ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (10.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (4.8ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (2.5ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (6.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.8ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (4.4ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (3.2ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.3ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.0ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (29.7ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (2.5ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.8ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36mDailyDatesData Load (0.2ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (25.5ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (25.4ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (27.1ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36mDailyDatesData Load (0.2ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` [0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 2
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.1ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.1ms)[0m  SELECT DATABASE() as db
+  [1m[36m (0.8ms)[0m  [1mselect table_name from information_schema.views where table_schema = 'exportable_test'[0m
+  [1m[35m (2.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (28.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (28.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (26.1ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (30.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.3ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (29.7ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.3ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36mDailyDatesData Load (0.2ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (25.8ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.3ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (24.2ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36mDailyDatesData Load (0.2ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` [0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 2
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.1ms)[0m  SELECT DATABASE() as db
+  [1m[36m (0.9ms)[0m  [1mselect table_name from information_schema.views where table_schema = 'exportable_test'[0m
+  [1m[35m (2.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (26.2ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (35.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (28.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.3ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (30.0ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36mDailyDatesData Load (0.2ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (29.4ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.4ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (25.5ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (2.5ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (29.7ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (25.7ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36mDailyDatesData Load (0.2ms)[0m  [1mSELECT `daily_dates_data`.* FROM `daily_dates_data` [0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.2ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 1[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 2
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.4ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.1ms)[0m  SELECT DATABASE() as db
+  [1m[36m (1.3ms)[0m  [1mselect table_name from information_schema.views where table_schema = 'exportable_test'[0m
+  [1m[35m (2.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (28.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.8ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.8ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (3.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.1ms)[0m  SELECT DATABASE() as db
+  [1m[36m (0.9ms)[0m  [1mselect table_name from information_schema.views where table_schema = 'exportable_test'[0m
+  [1m[35m (2.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (3.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (24.4ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (24.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
+Migrating to CreateDailyDatesDataTable (20140429173256)
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (0.1ms)[0m  SELECT DATABASE() as db
+  [1m[36m (1.0ms)[0m  [1mselect table_name from information_schema.views where table_schema = 'exportable_test'[0m
+  [1m[35m (2.8ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (3.0ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (3.1ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.6ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (7.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (2.9ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.3ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.2ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35mDailyDatesData Load (0.2ms)[0m  SELECT `daily_dates_data`.* FROM `daily_dates_data` 
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  UPDATE `daily_dates_data` SET `site` = 'site 0' WHERE `daily_dates_data`.`id` = 1
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.1ms)[0m  [1mUPDATE `daily_dates_data` SET `site` = 'site 1' WHERE `daily_dates_data`.`id` = 2[0m
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (25.5ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (3.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (1.3ms)[0m  COMMIT
+  [1m[36m (0.8ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.8ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (26.7ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.2ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (4.7ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (2.4ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.3ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.2ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.4ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)[0m
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [1m[35m (0.1ms)[0m  SET FOREIGN_KEY_CHECKS = 0
+  [1m[36m (26.6ms)[0m  [1mTRUNCATE TABLE `daily_dates_data`;[0m
+  [1m[35m (0.2ms)[0m  SET FOREIGN_KEY_CHECKS = 1
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO `daily_dates_data` (`age`, `city`, `date_text`, `email`, `gender`, `image_url`, `imp_url`, `login`, `orientation`, `recipient_city`, `recipient_login`, `single_access_token`, `site`, `site_name`, `site_url`, `state`, `userID`) VALUES (24, NULL, 'hey babe', 'dummy@example.com', 'male', 'image.jpg', NULL, 'kickass', 'straight', NULL, 'badass', NULL, 'howaboutwe', 'haw', 'www.howaboutwe.com', NULL, 1)
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35mDailyDatesData Load (0.6ms)[0m  SELECT `daily_dates_data`.* FROM `daily_dates_data` LIMIT 1
+  [1m[36m (0.4ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.3ms)[0m  UPDATE `daily_dates_data` SET `site` = 'my_custom_site' WHERE `daily_dates_data`.`id` = 1
+  [1m[36m (0.2ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (29.0ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (28.3ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.2ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (26.3ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.3ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (26.1ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.7ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.7ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.5ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (27.3ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (36.2ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [1m[35m (0.1ms)[0m  SELECT @@FOREIGN_KEY_CHECKS
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [1m[35m (25.4ms)[0m  TRUNCATE TABLE `daily_dates_data`;
+  [1m[36m (0.1ms)[0m  [1mSET FOREIGN_KEY_CHECKS = 1[0m
