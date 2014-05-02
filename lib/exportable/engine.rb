@@ -1,6 +1,6 @@
 module Exportable
   class Engine < ::Rails::Engine
-    isolate_namespace Exportable
+    #isolate_namespace Exportable
 
     config.generators do |g|
       g.test_framework      :rspec,        fixture: false

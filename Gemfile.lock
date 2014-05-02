@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    exportable (0.0.1)
+    exportable (0.0.2)
       mysql2
       rails (< 5.0)
 
