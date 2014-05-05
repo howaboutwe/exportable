@@ -38,20 +38,21 @@ module Exportable
         num_batches = 0
         data.each_slice(batch_size) do |slice|
           num_batches += 1
-          write_to_csv("#{file_prefix}.#{num_batches}", slice, col_sep ) {|rec| rec.values }
+          write_to_csv("#{file_prefix}.#{num_batches}", slice, col_sep, mode ) {|rec| rec.values }
         end
         num_batches
       end
 
 
       private
-        def write_to_csv(file_name, data, col_sep, &block)
-          (ExportableCSV.new(file_name, exportable_headers, col_sep) do |csv|
+        def write_to_csv(file_name, data, col_sep, mode = "w:UTF-16", &block)
+          export = ExportableCSV.new(file_name, exportable_headers, col_sep, mode) do |csv|
             iterator = data.respond_to?(:find_each) ? :find_each : :each
             data.send(iterator) do |rec|
               csv << yield(rec)
             end
-          end).num_rows
+          end
+          export.num_rows
         end
 
         def streaming_query(sql)

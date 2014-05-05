@@ -2,8 +2,8 @@ module Exportable
   class ExportableCSV
     attr_reader :num_rows
 
-    def initialize(filename, headers, col_sep = "\t", &block)
-      @file = File.new(filename, "wb:UTF-16")
+    def initialize(filename, headers, col_sep = "\t", mode = "wb:UTF-16", &block)
+      @file = File.new(filename, mode)
       @num_rows = 0
       @csv = CSV.new(@file, col_sep: col_sep, quote_char: col_sep, headers: headers, write_headers: true)
 
